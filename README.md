@@ -1,4 +1,4 @@
 #EditREADME
 ## Heading
 ### Heading 1
-**This is an example**
+*This is an example*
